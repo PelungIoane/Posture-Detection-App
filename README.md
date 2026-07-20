@@ -16,9 +16,3 @@ Real-time posture monitoring application developed in Python using computer visi
 - Detection of incorrect sitting posture
 - Visual feedback
 - Desktop interface
-
-## Screenshots
-
-![Correct posture](screenshots/correct_posture.png)
-
-![Incorrect posture](screenshots/incorrect_posture.png)
